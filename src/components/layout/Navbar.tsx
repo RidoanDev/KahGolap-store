@@ -32,10 +32,10 @@ export function Navbar() {
           <Link to="/" className="text-xl font-bold text-frangipani-600 flex items-center gap-2">
             <img 
               src="https://i.postimg.cc/MTHfXmpG/20250518-133009.png" 
-              alt="Kathgolap Logo" 
+              alt="KathGolap Logo" 
               className="w-8 h-8 rounded-full object-cover"
             />
-            Kathgolap
+            KathGolap
           </Link>
           
           <nav className="hidden md:flex items-center gap-6">
