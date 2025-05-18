@@ -31,7 +31,7 @@ export function Navbar() {
         <div className="flex items-center gap-6">
           <Link to="/" className="text-xl font-bold text-frangipani-600 flex items-center gap-2">
             <img 
-              src="https://images.pexels.com/photos/6621086/pexels-photo-6621086.jpeg?auto=compress&cs=tinysrgb&w=100" 
+              src="https://i.postimg.cc/MTHfXmpG/20250518-133009.png" 
               alt="Kathgolap Logo" 
               className="w-8 h-8 rounded-full object-cover"
             />
